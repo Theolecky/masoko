@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514491448705",
+    "firebase_url": "https://masoko-a17a9.firebaseio.com",
+    "project_id": "masoko-a17a9",
+    "storage_bucket": "masoko-a17a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514491448705:android:25abca77a978b55e07bc80",
+        "android_client_info": {
+          "package_name": "com.example.masoko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514491448705-p7f0k62d8l7g0cvdckenbntc7lilhc9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVANVqbGBehWO_RjLhHUv3VDKubVHqkPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514491448705-p7f0k62d8l7g0cvdckenbntc7lilhc9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

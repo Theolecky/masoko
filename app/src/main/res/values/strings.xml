@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Masoko</string>
+    <string name="username_string">UserName</string>
+    <string name="email_hint">Email</string>
+    <string name="enter_username_hint">Enter Email</string>
+    <string name="password_string">Password</string>
+    <string name="enter_password_hint">Enter Password</string>
+    <string name="login_screen">Login</string>
+    <string name="hello">Hello Android!</string>
+    <string name="login_string">Login</string>
+    <string name="color">white</string>
+    <string name="title_activity_parent_map">Masoko</string>
+    <string name="stock_productname_hint">Product Name</string>
+    <string name="stock_quantity_hint">Quantity</string>
+
+    <string name="stock_button_text">Add Stock</string>
+
+</resources>
